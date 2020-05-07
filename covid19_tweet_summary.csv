@@ -1,0 +1,63 @@
+Search terms,City +200km radius,Start date,End date,Week number,Number of tweets,Number of unique users,Who's tweeting - public,Who's tweeting - doctors/healthcare org,Who's tweeting - news,Who's tweeting - gov,Content - virus fear/concern,Content - cancer treatment concern,Content - change to personal cancer treatment,Content - support/information,Content - misc (not directly related to virus or cancer)
+Covid 19 AND cancer,Toronto,01-Mar-20,07-Mar-20,1,2,1,1,0,0,0,2,0,0,0,0
+Covid 19 AND cancer,Toronto,08-Mar-20,14-Mar-20,2,1,1,1,0,0,0,0,0,0,0,1
+Covid 19 AND cancer,Toronto,15-Mar-20,21-Mar-20,3,5,5,5,0,0,0,0,2,0,1,2
+Covid 19 AND cancer,Toronto,22-Mar-20,28-Mar-20,4,12,11,10,1,0,0,2,2,1,5,2
+Covid 19 AND cancer,Toronto,29-Mar-20,04-Apr-20,5,5,5,4,1,0,0,1,1,0,2,1
+Covid 19 AND cancer,Toronto,05-Apr-20,11-Apr-20,6,58,50,46,4,0,0,5,12,0,13,28
+Covid 19 AND cancer,Toronto,12-Apr-20,18-Apr-20,7,51,50,43,1,6,0,10,4,0,22,15
+Covid 19 AND cancer,Montreal,08-Mar-20,14-Mar-20,2,1,1,1,0,0,0,0,0,0,1,0
+Covid 19 AND cancer,Montreal,05-Apr-20,11-Apr-20,6,22,21,17,1,3,0,4,4,0,5,9
+Covid 19 AND cancer,Montreal,12-Apr-20,18-Apr-20,7,31,30,24,1,4,1,3,6,0,9,13
+Covid 19 AND cancer,Vancouver,15-Mar-20,21-Mar-20,3,3,3,3,0,0,0,0,0,0,2,1
+Covid 19 AND cancer,Vancouver,22-Mar-20,28-Mar-20,4,3,3,3,0,0,0,0,2,0,1,0
+Covid 19 AND cancer,Vancouver,29-Mar-20,04-Apr-20,5,2,1,1,0,0,0,0,1,0,0,1
+Covid 19 AND cancer,Vancouver,05-Apr-20,11-Apr-20,6,60,26,23,2,1,0,4,9,0,18,29
+Covid 19 AND cancer,Vancouver,12-Apr-20,18-Apr-20,7,21,18,17,1,0,0,1,2,0,7,11
+Covid 19 AND cancer,Calgary,08-Mar-20,14-Mar-20,2,1,1,0,0,0,1,0,0,0,0,1
+Covid 19 AND cancer,Calgary,15-Mar-20,21-Mar-20,3,3,3,2,1,0,0,1,0,0,2,0
+Covid 19 AND cancer,Calgary,05-Apr-20,11-Apr-20,6,11,11,10,1,0,0,0,0,1,2,8
+Covid 19 AND cancer,Calgary,12-Apr-20,18-Apr-20,7,3,3,3,0,0,0,0,0,0,2,1
+Covid 19 AND cancer,Edmonton,08-Mar-20,14-Mar-20,2,1,1,1,0,0,0,1,0,0,0,0
+Covid 19 AND cancer,Edmonton,22-Mar-20,28-Mar-20,4,1,1,1,0,0,0,0,0,0,0,1
+Covid 19 AND cancer,Edmonton,29-Mar-20,04-Apr-20,5,4,4,4,0,0,0,1,0,0,1,2
+Covid 19 AND cancer,Edmonton,05-Apr-20,11-Apr-20,6,17,9,6,2,1,0,3,10,0,2,2
+Covid 19 AND cancer,Edmonton,12-Apr-20,18-Apr-20,7,5,5,3,0,0,2,0,0,1,3,1
+Covid 19 AND cancer,Ottawa,08-Mar-20,14-Mar-20,2,1,1,1,0,0,0,0,0,0,1,0
+Covid 19 AND cancer,Ottawa,15-Mar-20,21-Mar-20,3,2,2,2,0,0,0,1,1,0,0,0
+Covid 19 AND cancer,Ottawa,22-Mar-20,28-Mar-20,4,1,1,1,0,0,0,0,1,0,0,0
+Covid 19 AND cancer,Ottawa,29-Mar-20,04-Apr-20,5,2,2,2,0,0,0,0,1,0,1,0
+Covid 19 AND cancer,Ottawa,05-Apr-20,11-Apr-20,6,15,12,10,2,0,0,1,2,0,5,7
+Covid 19 AND cancer,Ottawa,12-Apr-20,18-Apr-20,7,29,28,24,1,3,0,4,2,0,10,13
+Coronavirus AND cancer,Toronto,01-Mar-20,07-Mar-20,1,2,2,2,0,0,0,1,0,0,0,1
+Coronavirus AND cancer,Toronto,08-Mar-20,14-Mar-20,2,1,1,1,0,0,0,0,0,0,0,1
+Coronavirus AND cancer,Toronto,15-Mar-20,21-Mar-20,3,2,2,2,0,0,0,0,1,0,0,1
+Coronavirus AND cancer,Toronto,22-Mar-20,28-Mar-20,4,2,2,2,0,0,0,0,1,0,1,0
+Coronavirus AND cancer,Toronto,05-Apr-20,11-Apr-20,5,21,16,16,0,0,0,0,4,0,1,16
+Coronavirus AND cancer,Toronto,12-Apr-20,18-Apr-20,7,34,22,15,5,2,0,5,5,0,15,9
+Coronavirus AND cancer,Montreal,15-Mar-20,21-Mar-20,2,1,1,1,0,0,0,0,0,0,1,0
+Coronavirus AND cancer,Montreal,05-Apr-20,11-Apr-20,6,12,10,10,0,0,0,1,2,0,0,9
+Coronavirus AND cancer,Montreal,12-Apr-20,18-Apr-20,7,8,8,5,0,3,0,3,0,0,3,2
+Coronavirus AND cancer,Vancouver,01-Mar-20,07-Mar-20,1,1,1,1,0,0,0,0,0,0,0,1
+Coronavirus AND cancer,Vancouver,08-Mar-20,14-Mar-20,2,1,1,1,0,0,0,0,0,0,0,1
+Coronavirus AND cancer,Vancouver,05-Apr-20,11-Apr-20,6,15,7,7,0,0,0,0,0,0,0,15
+Coronavirus AND cancer,Vancouver,12-Apr-20,18-Apr-20,7,25,14,13,0,1,0,1,0,0,9,15
+Coronavirus AND cancer,Calgary,12-Apr-20,18-Apr-20,7,4,4,0,0,1,0,1,0,0,2,1
+Coronavirus AND cancer,Edmonton,29-Mar-20,04-Apr-20,5,1,1,1,0,0,0,0,0,0,0,1
+Coronavirus AND cancer,Edmonton,05-Apr-20,11-Apr-20,6,1,1,1,0,0,0,0,0,0,0,1
+Coronavirus AND cancer,Edmonton,12-Apr-20,18-Apr-20,7,2,2,0,1,1,0,0,0,0,2,0
+Coronavirus AND cancer,Ottawa,08-Mar-20,14-Mar-20,2,2,2,2,0,0,0,0,0,0,1,1
+Coronavirus AND cancer,Ottawa,22-Mar-20,28-Mar-20,4,1,1,1,0,0,0,0,0,0,1,0
+Coronavirus AND cancer,Ottawa,29-Mar-20,04-Apr-20,5,1,1,1,0,0,0,0,1,0,0,0
+Coronavirus AND cancer,Ottawa,05-Apr-20,11-Apr-20,6,4,4,3,1,0,0,0,1,0,1,2
+Coronavirus AND cancer,Ottawa,12-Apr-20,18-Apr-20,7,8,8,7,1,0,0,4,0,0,2,2
+Covid 19 AND oncology,Toronto,05-Apr-20,11-Apr-20,6,6,3,2,1,0,0,0,3,0,0,3
+Covid 19 AND oncology,Toronto,12-Apr-20,18-Apr-20,7,4,3,3,0,0,0,0,0,0,4,0
+Covid 19 AND oncology,Montreal,12-Apr-20,18-Apr-20,7,1,1,1,0,0,0,0,0,0,1,0
+Covid 19 AND oncology,Calgary,08-Mar-20,14-Mar-20,2,1,1,1,0,0,0,0,0,0,0,1
+Covid 19 AND oncology,Calgary,05-Apr-20,11-Apr-20,6,1,1,1,0,0,0,0,0,0,1,0
+Covid 19 AND oncology,Calgary,12-Apr-20,18-Apr-20,7,1,1,1,0,0,0,0,0,0,1,0
+Covid 19 AND oncology,Ottawa,05-Apr-20,11-Apr-20,6,3,2,1,1,0,0,0,0,0,3,0
+Coronavirus AND oncology,Toronto,05-Apr-20,11-Apr-20,6,3,2,2,0,0,0,0,0,0,1,2
+Coronavirus AND oncology,Toronto,12-Apr-20,18-Apr-20,7,1,1,1,0,0,0,0,0,0,1,0
+Coronavirus AND oncology,Ottawa,05-Apr-20,11-Apr-20,6,2,2,1,1,0,0,0,0,0,1,1
