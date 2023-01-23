@@ -1,5 +1,8 @@
 # Cancer care in the time of Covid-19
  This project is an exploration of how cancer patient care has changed in Canada throughout the Covid-19 pandemic using data from Twitter. The jupyter notebooks published here were orginally Kaggle notebooks and were submitted as tasks to the Roche Data Science Coalition's UNCOVER COVID-19 Challenge. The *Cancer care in the time of Covid-19* notebook was an accepted submission for one of the tasks in the challenge.
+
+**January 2023 update:** repository is archived
+ 
 ## Useful info on Datasets and Jupyter Notebooks
 ***covid19_tweet_summary.csv**, used in the Cancer care in the time of Covid-19 jupyter notebook*: Tweets were scraped using twitterscraper (https://github.com/taspinar/twitterscraper). twitterscraper was used 168 times (4 search terms x 6 cities x 7 weeks) and a .json file containing the tweets and their meta-data were saved for each run whenever tweets that met the search criteria were available. The labelling of the type of user ("general public", "news", etc.) was done manually and required reading the usernames of each unique user. The labelling of the tweet content ("virus concern", "cancer concern", etc.) was done manually and required reading each tweet. The summary data was created for the sole purpose of categorizing the users and tweets. If you're not interested in this level of detail (or are concerned about the labelling bias that comes with this) and only want to see statistics such as number of tweets or number of unique users publishing tweets, the raw tweet (.json) should be used instead (not included in this repository). The notebook in which this data is used provides visualization of this data; no machine learning or modelling is used.
 
